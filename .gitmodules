@@ -1,0 +1,3 @@
+[submodule "zed/extension/svelte"]
+	path = zed/extension/svelte
+	url = https://github.com/zed-extensions/svelte.git
